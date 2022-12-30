@@ -24,8 +24,7 @@ GPU - :small_orange_diamond:
 
 Keyboard - :white_check_mark:
 
-Trackpad - :x:
-   > Planning to fix this but ATM this does not work. Use esxternal mouse.
+Trackpad - :white_check_mark:
 
 Controls - :small_orange_diamond:
    > Some controls do not work such as F1/F2/F3, and F12. F6 will not unmute but pressing F7 or F8 works.
