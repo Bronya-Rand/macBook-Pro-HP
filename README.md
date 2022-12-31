@@ -7,7 +7,7 @@ Converting a HP gaming PC into a macBook Pro.
 - MaciASL
 - MountEFI
 - GenSMBIOS
-- USBMap
+- USBToolbox
 
 Note: **Do not** copy the DSL folder to your EFI. This is stored to reconfigure the AML code here to DSL.
 
