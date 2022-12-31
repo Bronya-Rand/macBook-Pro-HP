@@ -27,9 +27,11 @@ Keyboard - :white_check_mark:
 Trackpad - :white_check_mark:
 
 Controls - :small_orange_diamond:
-   > Some controls do not work such as F1/F2/F3, and F12. F6 will not unmute but pressing F7 or F8 works.
+   > Some controls do not work such as F1, F4 and F12. F6 will not unmute once pressed, nor will it show the orange LED but pressing F7 or F8 will unmute it.
 
 USB - :white_check_mark: 
+
+SATA - :white_check_mark: 
 
 Sound - :white_check_mark:
 
