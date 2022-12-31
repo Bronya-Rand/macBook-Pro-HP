@@ -26,6 +26,8 @@ Keyboard - :white_check_mark:
 
 Trackpad - :white_check_mark:
 
+Webcam - :white_check_mark:
+
 Controls - :small_orange_diamond:
    > Some controls do not work such as F1, F4 and F12. F6 will not unmute once pressed, nor will it show the orange LED but pressing F7 or F8 will unmute it.
 
@@ -35,8 +37,12 @@ SATA - :white_check_mark:
 
 Sound - :white_check_mark:
 
-Internet - :white_check_mark:
-   > While I have a Intel AX210 Wi-Fi card, this should work on any Intel card, though updating this is recommended. Ethernet still works as intended.
+Internet
+   - Wi-Fi - :white_check_mark:
+      > While I have a Intel AX210 Wi-Fi card, this should work on any Intel card, though updating this is recommended. Ethernet still works as intended.
+   - LAN - :white_check_mark:
+
+Bluetooth - :white_check_mark:
 
 Sleep - :white_check_mark:
    > Should work with the adjustments recently made.
