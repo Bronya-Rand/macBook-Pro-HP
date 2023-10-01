@@ -29,7 +29,7 @@ Trackpad - :white_check_mark:
 Webcam - :white_check_mark:
 
 Controls - :white_check_mark:
-   > Some controls do not work such as F1, F4 and F12. Mute LED will not turn on/
+   > Some controls may not work. Mute LED will not turn on.
 
 USB - :white_check_mark: 
 
